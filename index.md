@@ -15,9 +15,32 @@ This is a place to stash my links.
 
 ## Substacks
 
-Scott Alexander - [Astral Codex Ten](https://astralcodexten.com)  
-Brian Caplan - [Bet on It](https://betonit.ai)  
-Bentham's Bulldog - [Bentham's Newsletter](https://open.substack.com/pub/benthams)  
+<table>
+<thead>
+  <tr>
+    <th class="width-min">Author</th>
+    <th class="width-auto">Description</th>
+    <th class="width-min">Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Scott Alexander</td>
+    <td>Rationalist/Psychiatrist/General thinker</td>
+    <td>[Astral Codex Ten](https://astralcodexten.com)</td>
+  </tr>
+  <tr>
+    <td>Bryan Caplan</td>
+    <td>Economist/Snarky/Libertarian</td>
+    <td>[Bet on It](https://betonit.ai)</td>
+  </tr>
+  <tr>
+    <td>Bentham's Bulldog</td>
+    <td>Philosophy Student/Contrarian/Theist</td>
+    <td>[Bentham's Newsletter](https://open.substack.com/pub/benthams)</td>
+  </tr>
+</tbody>
+</table>
 <hr>
 
 ## Categories
