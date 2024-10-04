@@ -26,6 +26,7 @@ Bentham's Bulldog - [Bentham's Newsletter](https://open.substack.com/pub/bentham
 <summary>C Libraries</summary>
 <p>Raylib (graphics/game stuff) - [raylib.com](https://www.raylib.com/examples.html)</p>
 <p>Gnu Libc - [gnu.org](https://www.gnu.org/software/libc/manual/html_node/)</p>
+<!--<p> - []()</p>-->
 </details>
 
 <details>
@@ -35,11 +36,23 @@ Bentham's Bulldog - [Bentham's Newsletter](https://open.substack.com/pub/bentham
 </details>
 
 <details>
-<summary>Little Utilites</summary>
+<summary>Little Web Utilites/Games</summary>
 <p>Mapping tool for text based games - [trizbort.io](https://www.trizbort.io/app/index.html#)</p>
+<p>DCS Checklist Generator - [simtools.app](https://www.simtools.app/)</p>
+<p>Browser roguelike - [rogule](https://rogule.com/game.html)</p>
 <!--<p> - []()</p>-->
 </details>
 
+<details>
+<summary>CPM/Retrocomputing</summary>
+<p>Original material - [CPM 2.0 System Alteration Guide](http://www.cpm.z80.de/randyfiles/DRI/CPM_2_0_System_Alteration_Guide.pdf)</p>
+<p>CPM blog post - [CPM-on-a-new-computer](http://cpuville.com/Code/CPM-on-a-new-computer.html)</p>
+<p>CPM Floppy assembly code - [axa.asm](http://www.gaby.de/cpm/manuals/archive/cpm22htm/axa.asm)</p>
+<p>RC1014 disk code- [cbios128.asm](https://github.com/RC2014Z80/RC2014/blob/8c566b99a9c972488d716aba8f767a810f86c330/CPM/SIO2/cbios128.asm)</p>
+<p>RC2014+ Firmware - [RomWBW](https://github.com/wwarthen/RomWBW)</p>
+<p>Original material - [CPM 2.2 Manual](http://www.cpm.z80.de/manuals/cpm22-m.pdf)</p>
+<!--<p> - []()</p>-->
+</details>
 
 
 ## Interesting (but unsorted)
@@ -58,8 +71,22 @@ Bentham's Bulldog - [Bentham's Newsletter](https://open.substack.com/pub/bentham
 <p>AI based speech gen - [AllTalk](https://github.com/erew123/alltalk_tts?tab=readme-ov-file)</p>
 <p>Open source hypervisor thing - [XCP-ng](https://xcp-ng.org/)</p>
 <p>Setting up Airmessage (for iMessage without an iPhone)- [airmessage.org](https://airmessage.org/help/guide/multiple-users)</p>
+<p>CLI ebook reader - [epy](https://github.com/wustho/epy)</p>
+<p>Ultrawide cyberdeck - [penkesu](https://penkesu.computer/)</p>
+<p>Book on KiCad - [kicad like a pro](https://techexplorations.com/so/kicad-like-a-pro-3e-special-edition/)</p>
+<p>Flight sim hardware - [dual encoder kit](https://www.propwashsim.com/store/dual-encoder-kit)</p>
+<p>Classic blogpost about law and data - [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23)</p>
+<p>DIY Spacemouse - [Ahmsville Dial v2](https://www.tindie.com/products/ahmsvillelabs/ahmsville-dial-v2-absolute-variant/)</p>
+<p>DIY FFB joystick - [LaserWing-MiniFFB](https://github.com/LaserWing/LaserWing-MiniFFB)</p>
+<p>Instruments on your phone - [DCS server manual](https://drive.google.com/file/d/1M2OH6cUZs0IPDh-wh4GzhQyhaI89aMAa/view)</p>
+<p>Home renovation/construction resource - [jlconline](https://www.jlconline.com/)</p>
+<p>Tabletop spacefleet combat game - [A Billion Suns](https://planetsmashergames.com/a-billion-suns/the-game/)</p>
+<p>Fancy headphone cables - [hartaudiocables](https://hartaudiocables.com/collections/headphone-cables)</p>
+<p>The best way to make rice pudding - [rice-pudding-recipe](https://bellyfull.net/rice-pudding-recipe/)</p>
+<p>One of those lists of things to know - [infosec core competencies](https://www.netmeister.org/blog/infosec-competencies.html)</p>
+<p>Neat guide - [FDM Printing Gears](https://www.instructables.com/A-Practical-Guide-to-FDM-3D-Printing-Gears/)</p>
+<p>Blocklist collection for pihole - [firebog.net](https://firebog.net/)</p>
 <!--<p> - []()</p>-->
-
 </details>
 
 ## Credit
