@@ -148,7 +148,7 @@ a {
 }
 
 a:link, a:visited {
-  color: var(--text-color-alt);
+  color: var(--color14);
 }
 
 p {
