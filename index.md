@@ -18,24 +18,24 @@ This is a place to stash my links.
 <table>
 <thead>
   <tr>
-    <th class="width-min">Author</th>
-    <th class="width-auto">Description</th>
-    <th class="width-min">Link</th>
+    <th class="width-min"><strong>Author</strong></th>
+    <th class="width-auto"><strong>Description</strong></th>
+    <th class="width-min"><strong>Link</strong></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Scott Alexander</td>
+    <td><em>Scott Alexander</em></td>
     <td>Rationalist/Psychiatrist/General thinker</td>
     <td>[Astral Codex Ten](https://astralcodexten.com)</td>
   </tr>
   <tr>
-    <td>Bryan Caplan</td>
+    <td><em>Bryan Caplan</em></td>
     <td>Economist/Snarky/Libertarian</td>
     <td>[Bet on It](https://betonit.ai)</td>
   </tr>
   <tr>
-    <td>Bentham's Bulldog</td>
+    <td><em>Bentham's Bulldog</em></td>
     <td>Philosophy Student/Contrarian/Theist</td>
     <td>[Bentham's Newsletter](https://open.substack.com/pub/benthams)</td>
   </tr>

@@ -1,13 +1,32 @@
-@import url('https://fonts.cdnfonts.com/css/jetbrains-mono-2');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/hack-font/3.3.0/web/hack.css'); /*url('https://fonts.cdnfonts.com/css/jetbrains-mono-2');*/
 
 :root {
   --font-family: "JetBrains Mono", monospace;
   --line-height: 1.20rem;
   --border-thickness: 2px;
-  --text-color: #000;
-  --text-color-alt: #666;
-  --background-color: #fff;
-  --background-color-alt: #eee;
+  /* https://github.com/NLKNguyen/papercolor-theme */
+  --color0: #eeeeee; 
+  --color1: #af0000;
+  --color2: #008700;	
+  --color3: #5f8700;
+  --color4: #0087af;
+  --color5: #878787;
+  --color6: #005f87;
+  --color7: #444444;
+  --color8: #bcbcbc;
+  --color9: #d70000;
+  --color10: #d70087;
+  --color11: #8700af;
+  --color12: #d75f00;
+  --color13: #d75f00;
+  --color14: #005faf;
+  --color15: #005f87;
+
+  --text-color: var(--color7);
+  --text-color-alt: var(--color15);
+  --background-color: var(--color0);
+  --background-color-alt: var(--color8);
+
 
   --font-weight-normal: 500;
   --font-weight-medium: 600;
@@ -23,10 +42,28 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text-color: #fff;
-    --text-color-alt: #aaa;
-    --background-color: #000;
-    --background-color-alt: #111;
+    /* https://github.com/NLKNguyen/papercolor-theme */
+    --color0: #1c1c1c;
+    --color1: #af005f;
+    --color2: #5faf00;
+    --color3: #d7af5f;
+    --color4: #5fafd7;
+    --color5: #808080;
+    --color6: #d7875f;
+    --color7: #d0d0d0;
+    --color8: #585858;
+    --color9: #5faf5f;
+    --color10: #afd700;
+    --color11: #af87d7;
+    --color12: #ffaf00;
+    --color13: #ff5faf;
+    --color14: #00afaf;
+    --color15: #5f8787;
+
+    --text-color: var(--color7);
+    --text-color-alt: var(--color15);
+    --background-color: var(--color0);
+    --background-color-alt: var(--color8);
   }
 }
 
@@ -73,6 +110,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: var(--font-weight-bold);
   margin: calc(var(--line-height) * 2) 0 var(--line-height);
   line-height: var(--line-height);
+  color: var(--color2);
 }
 
 h1 {
@@ -110,7 +148,7 @@ a {
 }
 
 a:link, a:visited {
-  color: var(--text-color);
+  color: var(--text-color-alt);
 }
 
 p {
@@ -119,9 +157,11 @@ p {
 
 strong {
   font-weight: var(--font-weight-bold);
+  color: var(--color1);
 }
 em {
   font-style: italic;
+  color: var(--color10);
 }
 
 sub {
