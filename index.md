@@ -46,9 +46,11 @@ This is a place to stash my links.
 ## Categories
 
 <details>
-<summary>C Libraries</summary>
+<summary>C Programming</summary>
 <p>Raylib (graphics/game stuff) - [raylib.com](https://www.raylib.com/examples.html)</p>
 <p>Gnu Libc - [gnu.org](https://www.gnu.org/software/libc/manual/html_node/)</p>
+<p>Yale CS 223 - [C for algo/data structures](http://cs.yale.edu/homes/aspnes/classes/223/notes.html)</p>
+<p>Using GDB Debugger guide - [using-gdb-debugger](http://programminggroundup.blogspot.com/2007/01/appendix-f-using-gdb-debugger.html?m=1)</p>
 <!--<p> - []()</p>-->
 </details>
 
@@ -77,6 +79,13 @@ This is a place to stash my links.
 <!--<p> - []()</p>-->
 </details>
 
+<details>
+<summary>Cyberdecks</summary>
+<p>handheld linux terminal - [clockworkpi uconsole](https://www.clockworkpi.com/product-page/uconsole-kit-rpi-cm4-lite)</p>
+<p>Super8 Cyberdeck - [r/cyberdeck](https://www.reddit.com/r/cyberDeck/comments/1f94g61/super8_cyberdeck/)</p>
+<p>Ultrawide cyberdeck - [penkesu](https://penkesu.computer/)</p>
+<!--<p> - []()</p>-->
+</details>
 
 ## Interesting (but unsorted)
 
@@ -85,8 +94,6 @@ This is a place to stash my links.
 <p>Onetime purchase/self host software by DHH - [ONCE](https://once.com)</p>
 <p>Neat site for learning assembly - [0de5.net](https://www.0de5.net)</p>
 <p>Pandoc website guide - [Pandoc website](https://wstyler.ucsd.edu/posts/pandoc_website.html)</p>
-<p>Using GDB Debugger guide - [using-gdb-debugger](http://programminggroundup.blogspot.com/2007/01/appendix-f-using-gdb-debugger.html?m=1)</p>
-<p>Yale CS 223 - [C for algo/data structures](http://cs.yale.edu/homes/aspnes/classes/223/notes.html)</p>
 <p>DIY Tailscale alternative - [Netmaker](https://github.com/gravitl/netmaker)</p>
 <p>Origin of "Hyperreality" - [Simulacra and Simulation](https://0ducks.wordpress.com/wp-content/uploads/2014/12/simulacra-and-simulation-by-jean-baudrillard.pdf)</p>
 <p>Metalworking shop from scrap - [Gingery books](https://gingerybookstore.com/MetalWorkingShopFromScrap.html)</p>
@@ -95,7 +102,6 @@ This is a place to stash my links.
 <p>Open source hypervisor thing - [XCP-ng](https://xcp-ng.org/)</p>
 <p>Setting up Airmessage (for iMessage without an iPhone)- [airmessage.org](https://airmessage.org/help/guide/multiple-users)</p>
 <p>CLI ebook reader - [epy](https://github.com/wustho/epy)</p>
-<p>Ultrawide cyberdeck - [penkesu](https://penkesu.computer/)</p>
 <p>Book on KiCad - [kicad like a pro](https://techexplorations.com/so/kicad-like-a-pro-3e-special-edition/)</p>
 <p>Flight sim hardware - [dual encoder kit](https://www.propwashsim.com/store/dual-encoder-kit)</p>
 <p>Classic blogpost about law and data - [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23)</p>
@@ -109,8 +115,6 @@ This is a place to stash my links.
 <p>One of those lists of things to know - [infosec core competencies](https://www.netmeister.org/blog/infosec-competencies.html)</p>
 <p>Neat guide - [FDM Printing Gears](https://www.instructables.com/A-Practical-Guide-to-FDM-3D-Printing-Gears/)</p>
 <p>Blocklist collection for pihole - [firebog.net](https://firebog.net/)</p>
-<p>Super8 Cyberdeck - [r/cyberdeck](https://www.reddit.com/r/cyberDeck/comments/1f94g61/super8_cyberdeck/)</p>
-<p>handheld linux terminal - [clockworkpi uconsole](https://www.clockworkpi.com/product-page/uconsole-kit-rpi-cm4-lite)</p>
 <!--<p> - []()</p>-->
 </details>
 
