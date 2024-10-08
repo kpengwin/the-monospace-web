@@ -109,6 +109,8 @@ This is a place to stash my links.
 <p>One of those lists of things to know - [infosec core competencies](https://www.netmeister.org/blog/infosec-competencies.html)</p>
 <p>Neat guide - [FDM Printing Gears](https://www.instructables.com/A-Practical-Guide-to-FDM-3D-Printing-Gears/)</p>
 <p>Blocklist collection for pihole - [firebog.net](https://firebog.net/)</p>
+<p>Super8 Cyberdeck - [r/cyberdeck](https://www.reddit.com/r/cyberDeck/comments/1f94g61/super8_cyberdeck/)</p>
+<p>handheld linux terminal - [clockworkpi uconsole](https://www.clockworkpi.com/product-page/uconsole-kit-rpi-cm4-lite)</p>
 <!--<p> - []()</p>-->
 </details>
 
