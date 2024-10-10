@@ -115,6 +115,7 @@ This is a place to stash my links.
 <p>One of those lists of things to know - [infosec core competencies](https://www.netmeister.org/blog/infosec-competencies.html)</p>
 <p>Neat guide - [FDM Printing Gears](https://www.instructables.com/A-Practical-Guide-to-FDM-3D-Printing-Gears/)</p>
 <p>Blocklist collection for pihole - [firebog.net](https://firebog.net/)</p>
+<p>Good thoughtful article - [Automating Processes With Software is HARD](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)</p>
 <!--<p> - []()</p>-->
 </details>
 
