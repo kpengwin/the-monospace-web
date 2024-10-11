@@ -51,6 +51,7 @@ This is a place to stash my links.
 <p>Gnu Libc - [gnu.org](https://www.gnu.org/software/libc/manual/html_node/)</p>
 <p>Yale CS 223 - [C for algo/data structures](http://cs.yale.edu/homes/aspnes/classes/223/notes.html)</p>
 <p>Using GDB Debugger guide - [using-gdb-debugger](http://programminggroundup.blogspot.com/2007/01/appendix-f-using-gdb-debugger.html?m=1)</p>
+<p>Useful readable reference guide - [Beej C reference guide](https://beej.us/guide/bgclr/html/split/index.html)</p>
 <!--<p> - []()</p>-->
 </details>
 
